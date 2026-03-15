@@ -1,1 +1,1 @@
-A LSPD significa Lei Geral de Proteção de Dados
+A LGPD significa Lei Geral de Proteção de Dados
